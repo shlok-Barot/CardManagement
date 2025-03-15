@@ -1,5 +1,7 @@
 # Card Management System
 
+## Hosted URL - https://67d5238a653aefa4fe02b95f--frontendtestnextjs.netlify.app/
+
 ## Overview
 The **Card Management System** allows users to manage their credit and debit cards. Users can add, view, lock, archive, and set default cards, as well as integrate them with Google Pay.
 
@@ -47,7 +49,7 @@ The **Card Management System** allows users to manage their credit and debit car
    ```
 2. Navigate to the project directory:
    ```sh
-   cd card-management-system
+   cd CardManagement
    ```
 3. Install dependencies:
    ```sh
